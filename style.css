@@ -189,6 +189,10 @@ nav.secondaryNavBar ul li a:hover {
   color: #327d11;
 }
 
+.padding_top {
+  height: 2em;
+}
+
 .image_container {
   padding-bottom: 30px;
 }
@@ -230,8 +234,8 @@ figcaption.img_port_caps a {
 .description_text {
   max-width: 80%;
   padding-bottom: 30px;
-  font-size: 1.2rem;
-  line-height: 1.5rem;
+  font-size: 1rem;
+  line-height: 1.4rem;
 }
 
 /* Animated GIF page */
