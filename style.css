@@ -129,12 +129,19 @@ img.img_mockup {
 .caption_links {
   margin-top: 10px;
   font-size: 1.2rem;
-  font-style: italic;
   font-weight: bold;
   text-align: center;
 }
 
-.caption_links p {
+.caption_links2 {
+  margin-top: 10px;
+  font-size: 0.8rem;
+  font-style: italic;
+  text-align: center;
+}
+
+.caption_links p,
+.caption_links2 p {
   align-items: center;
   text-align: center;
 }
